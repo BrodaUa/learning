@@ -12,8 +12,7 @@ https://github.com/fchollet/keras-resources
 
 ### Additional resources
 https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months   
-https://github.com/BrodaUa/Machine-Learning-Links-And-Lessons-Learned  
-https://github.com/BrodaUa/udscourse  
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie  
 https://github.com/onnx/onnx  
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
